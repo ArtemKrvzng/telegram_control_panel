@@ -1,1 +1,1 @@
-# telegram_control_panel
+# Application for managing telegram channel
